@@ -4,7 +4,9 @@ The EMNIST file data was downloaded from https://www.kaggle.com/crawford/emnist 
 being used is mentioned below.
 
 Numbers
+
 	Data
+	
 		Copy files emnist-digits-test.csv and emnist-digits-train.csv into this folder.
 		Omitted in this post due to the extremely large file size.
 	HandWrittenNumbers.ipynb 
@@ -16,6 +18,7 @@ Numbers
 		This image is used for the user to edit and the model to predict the written number
 		
 Numbers and Letters
+
 	Data
 		Copy files emnist-bymerge-test.csv, emnist-bymerge-train.csv, and emnist-bymerge-mapping.txt into this folder.
 		Omitted in this post due to the extremely large file size.
