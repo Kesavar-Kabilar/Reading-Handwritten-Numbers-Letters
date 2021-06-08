@@ -7,8 +7,8 @@ Numbers
 
 	Data
 	
-		Copy files emnist-digits-test.csv and emnist-digits-train.csv into this folder.
-		Omitted in this post due to the extremely large file size.
+		Must create a new folder named "Data" and copy files emnist-digits-test.csv and 
+		emnist-digits-train.csv into this folder. Omitted in this post due to the extremely large file size.
 	HandWrittenNumbers.ipynb 
 		Builds, and trains a keras sequential deep neural network with approximately 97% accuracy
 		User can see the some pictures of certain test number and compare it to the predicted value by the model
@@ -20,8 +20,9 @@ Numbers
 Numbers and Letters
 
 	Data
-		Copy files emnist-bymerge-test.csv, emnist-bymerge-train.csv, and emnist-bymerge-mapping.txt into this folder.
-		Omitted in this post due to the extremely large file size.
+		Must create a new folder named "Data" and copy files emnist-bymerge-test.csv, 
+		emnist-bymerge-train.csv, and emnist-bymerge-mapping.txt into this folder. Omitted in 
+		this post due to the extremely large file size.
 	HandWrittenNumbers.ipynb 
 		Builds, and trains a keras sequential deep neural network with approximately 97% accuracy
 		User can see the some pictures of certain test number and compare it to the predicted value by the model
