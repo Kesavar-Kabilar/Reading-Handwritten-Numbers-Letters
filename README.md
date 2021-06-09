@@ -6,7 +6,6 @@ being used is mentioned below.
 Numbers
 
 	Data
-	
 		Must create a new folder named "Data" and copy files emnist-digits-test.csv and 
 		emnist-digits-train.csv into this folder. Omitted in this post due to the extremely large file size.
 	HandWrittenNumbers.ipynb 
